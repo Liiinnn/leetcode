@@ -1,6 +1,18 @@
 # LeetCode ~
 
-[TOC]
+目录：
+
+>1.[Array](##Array)
+>
+>2.[String](##String)
+>
+>3.[Msth](##Math)
+>
+>4.[Tree](##Tree)
+
+
+
+
 
 
 
@@ -8,7 +20,7 @@
 
 #### Easy:
 
-##### 27.[移除元素](./Array/27.移除元素.md)
+##### 						27.[移除元素](./Array/27.移除元素.md)
 
 
 
