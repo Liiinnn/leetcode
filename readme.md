@@ -2,19 +2,47 @@
 
 ### 目录
 
-#### <a href="#1.Array">1.Array</a>
+#### <a href="#Array">1. Array</a>
 
-#### <a href="#2.String">2.String</a>
+#### <a href="#String">2. String</a>
 
-#### <a href="#3.Math">3.Math</a>
+#### <a href="#Math">3. Math</a>
 
-#### <a href="#4.Tree">4.Tree</a>
+#### <a href="#Tree">4. Tree</a>
+
+#### <a href="#Backtracking">5. Backtracking</a>
+
+#### <a href="#Dynamic Programming">6. Dynamic Programming</a>
+
+#### <a href="#LinkedList">7. LinkedList</a>
+
+#### <a href="#Banary Search">8. Banary Search</a>
+
+#### <a href="#Matrix">9. Matrix</a>
+
+#### <a href="#DFS & BFS">10. DFS & BFS</a>
+
+#### <a href="#Stack & PriorityQueue">11. Stack & PriorityQueue</a>
+
+#### <a href="#Bit Manipulation">12. Bit Manipulation</a>
+
+#### <a href="#Topological Sort">13. Topological Sort</a>
+
+#### <a href="#Random">14. Random</a>
+
+#### <a href="#Gragh">15. Gragh</a>
+
+#### <a href="#Union Find">16. Union Find</a>
+
+#### <a href="#Trie">17. Trie</a>
+
+#### <a href="#Design">18. Design</a>
 
 
 
 
 
-<a name="1.Array"></a>
+<a name="Array"></a>
 
 ## 1. Array
 
@@ -38,7 +66,7 @@
 
 
 
-<a name="2. String"></a>
+<a name="String"></a>
 
 ## 2. String
 
@@ -58,7 +86,7 @@
 
 
 
-<a name="3. Math"></a>
+<a name="Math"></a>
 
 ## 3. Math
 
@@ -74,7 +102,7 @@
 
 
 
-<a name="4. Tree"></a>
+<a name="Tree"></a>
 
 ## 4. Tree
 
@@ -90,7 +118,7 @@
 
 
 
-
+<a name="Backtracking"></a>
 
 ## 5. Backtracking
 
@@ -106,7 +134,7 @@
 
 
 
-
+<a name="Dynamic Programming"></a>
 
 ## 6. Dynamic Programming
 
@@ -122,7 +150,7 @@
 
 
 
-
+<a name="LinkedList"></a>
 
 ## 7. LinkedList
 
@@ -138,7 +166,7 @@
 
 
 
-
+<a name="Banary Search"></a>
 
 ## 8. Banary Search
 
@@ -154,7 +182,7 @@
 
 
 
-
+<a name="Matrix"></a>
 
 ## 9. Matrix
 
@@ -170,7 +198,7 @@
 
 
 
-
+<a name="DFS & BFS"></a>
 
 ## 10. DFS & BFS
 
@@ -186,7 +214,7 @@
 
 
 
-
+<a name="Stack & PriorityQueue"></a>
 
 ## 11. Stack & PriorityQueue
 
@@ -202,7 +230,7 @@
 
 
 
-
+<a name="Bit Manipulation"></a>
 
 ## 12. Bit Manipulation
 
@@ -218,6 +246,8 @@
 
 
 
+<a name="Topological Sort"></a>
+
 ## 13. Topological Sort
 
 #### Easy:
@@ -232,7 +262,7 @@
 
 
 
-
+<a name="Random"></a>
 
 ## 14. Random
 
@@ -248,7 +278,7 @@
 
 
 
-
+<a name="Gragh"></a>
 
 ## 15. Gragh
 
@@ -264,7 +294,7 @@
 
 
 
-
+<a name="Union Find"></a>
 
 ## 16. Union Find
 
@@ -280,7 +310,7 @@
 
 
 
-
+<a name="Trie"></a>
 
 ## 17. Trie
 
@@ -296,7 +326,7 @@
 
 
 
-
+<a name="Design"></a>
 
 ## 18. Design
 
